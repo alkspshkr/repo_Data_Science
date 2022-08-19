@@ -103,8 +103,35 @@
 
 |**Название проекта**|**Сферы деятельности**|**Направление деятельности**|**Навыки и инструменты**|**Ссылка на проект**|
 |:-------------------|:---------------------|:---------------------------|:-----------------------|:-------------------|
-|Исследование надёжности заёмщиков|`Банковская сфера`|`Data Analyst`|`Python`|[ссылка на проект](https://github.com/alkspshkr/repo_Data_Science/tree/master/Debt%20Bank%20Problem%20-%20DataPreprocessing)|
+|**Исследование надёжности заёмщиков**|`Банковская сфера`|`Data Analyst`|`Python`|[ссылка на проект](https://github.com/alkspshkr/repo_Data_Science/tree/master/Debt%20Bank%20Problem%20-%20DataPreprocessing)|
 ||`Кредитование`|`Финансовый аналитик`|`Pandas`||
 ||||`PyMystem3`||
-||||`Предобработка данных`||
-||||`Лемматизация`||
+||||`Data Preprocessing`||
+||||`Lemmatization`||
+|     |     |      |     |    |
+|**Анализ рынка недвижимости**|`Интернет-сервисы`|`Fraud Analyst`|`Python`|[ссылка на проект](https://github.com/alkspshkr/repo_Data_Science/tree/master/Property%20portrait%20-%20EDA)|
+||`Площадки объявлений`|`Data Analyst`|`Pandas`||
+||||`Matplotlib`||
+||||`Seaborn`||
+||||`EDA`||
+||||||
+|**Определение выгодного тарифа для телеком компании**|`Телеком`|`Data Analyst`|`Python`|[ссылка на проект](https://github.com/alkspshkr/repo_Data_Science/tree/master/Telecom%20Tariff%20-%20SDA)|
+|||`Marketing Analyst`|`Pandas`||
+||||`Matplotlib`||
+||||`Seaborn`||
+||||`SciPy`||
+||||`SDA`||
+||||`Hypothesis testing`||
+||||||
+|**Сборный проект - 1**|`GameDev`|`Data Analyst`|`Python`|[ссылка на проект](https://github.com/alkspshkr/repo_Data_Science/tree/master/Complex%20project)|
+||`Маркетинг`|`Marketing Analyst`|`Pandas`||
+||||`Matplotlib`||
+||||`Seaborn`||
+||||`SciPy`||
+||||`Data preprocessing`||
+||||`EDA`||
+||||`SDA`||
+||||`Hypothesis testing`||
+||||||
+
+
