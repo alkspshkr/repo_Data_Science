@@ -128,10 +128,34 @@
 ||||`Matplotlib`||
 ||||`Seaborn`||
 ||||`SciPy`||
+||||`NumPy`||
 ||||`Data preprocessing`||
 ||||`EDA`||
 ||||`SDA`||
 ||||`Hypothesis testing`||
 ||||||
-
-
+|**Классификация клиентов телеком компании**|`Телеком`|`Machine Learning`|`Python`|[ссылка на проект](https://github.com/alkspshkr/repo_Data_Science/tree/master/Tariff%20Recomendation%20-%20Introduction%20to%20ML)|
+||`Маркетинг`|`Classification`|`Pandas`||
+||||`SKlearn`||
+||||||
+|**Прогнозирование оттока клиентов банка**|`Банковская сфера`|`Machine Learning`|`Python`|[ссылка на проект](https://github.com/alkspshkr/repo_Data_Science/tree/master/Churn%20Bank%20Problem%20-%20Supervised%20Learning)|
+||`Кредитование`|`Data Analyst`|`Pandas`||
+||`Инвестиции`|`Finance Analyst`|`SKlearn`||
+||||`NumPy`|`Calssification`|
+||||`Disbalance solving`||
+||||||
+|**Определение наиболее выгодного региона нефтедобычи**|`Промышленность`|`Machine Learning`|`Python`|[ссылка на проект](https://github.com/alkspshkr/repo_Data_Science/tree/master/Oil%20Company%20Case%20-%20ML%20in%20Business)|
+||`Добывающие компании`|`Regression`|`Pandas`||
+|||`Developing business model`|`SKlearn`||
+|||`Business analyst`|`Bootstrap`||
+||||||
+|**Сборный проект - 2**|`Промышленность`|`Machine Learning`|`Python`|[ссылка на проект](https://github.com/alkspshkr/repo_Data_Science/tree/master/Complex%20project%20-%202)|
+||`Добывающие компании`|`Regression`|`Pandas`||
+|||`Data Analyst`|`SKlearn`||
+|||`Business Analyst`|`Matplotlib`||
+||||`Seaborn`||
+||||`NumPy`||
+||||`Data Preprocessing`||
+||||`EDA`||
+||||`Self-made metrics`||
+||||||
