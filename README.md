@@ -58,7 +58,7 @@
 
 ### По результатам прохождения курса освоил следующий технологический стэк:
 
-`Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, `Plotly`, `SKlearn`, `PyMystem3`, `NLTK`, `BERT`, `Tensorflow`, `Keras`, `Pytorch`, `PySpark`, `PostgreSQL`
+`Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, `Plotly`, `SKlearn`, `CatBoost`, `LightGBM`, `PyMystem3`, `NLTK`, `BERT`, `Tensorflow`, `Keras`, `Pytorch`, `PySpark`, `PostgreSQL`
 
 ### Топ-3 проекта для ознакомления:
 
