@@ -159,3 +159,10 @@
 ||||`EDA`||
 ||||`Self-made metrics`||
 ||||||
+|**Построение модели определения стоимости автомобиля**|`Интернет-магазины`|`Machine Learning`|`Python`|[ссылка на проект](https://github.com/alkspshkr/repo_Data_Science/tree/master/Predict%20Car%20Price%20-%20Gradient%20Boosting%20Models)|
+||`Интернет-сервисы`|`Regression`|`Pandas`||
+||`Бизнес`|`Data Analyst`|`SKlearn`||
+||||`CatBoost`||
+||||`LightGBM`||
+||||`OOP`||
+||||||
