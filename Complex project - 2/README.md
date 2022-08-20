@@ -11,6 +11,6 @@
 
 ## Используемый стэк:
 
-`Pandas`, `Python`, `Matplotlib`, `SKlearn`
+`Pandas`, `Python`, `Matplotlib`, `SKlearn`, `CatBoost`, `LightGBM`
 
 ## [Посмотреть тетрадку](https://github.com/alkspshkr/repo_Data_Science/blob/master/Complex%20project%20-%202/Complex%20project%20-%202.ipynb)
