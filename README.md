@@ -144,6 +144,7 @@
 ||||`NumPy`||
 ||||`Disbalance solving`||
 ||||`Calssification`||
+||||||
 |**Определение наиболее выгодного региона нефтедобычи**|`Промышленность`|`Machine Learning`|`Python`|[ссылка на проект](https://github.com/alkspshkr/repo_Data_Science/tree/master/Oil%20Company%20Case%20-%20ML%20in%20Business)|
 ||`Добывающие компании`|`Regression`|`Pandas`||
 |||`Developing business model`|`SKlearn`||
