@@ -166,3 +166,35 @@
 ||||`LightGBM`||
 ||||`OOP`||
 ||||||
+|**Прогнозирование количества заказов такси на следующий час**|`Интернет-сервисы`|`Machine Learning`|`Python`|[ссылка на проект](https://github.com/alkspshkr/repo_Data_Science/tree/master/Taxi%20Order%20Problem%20-%20Time%20Series%20Prediction)|
+||`Стартапы`||`Pandas`||
+||||`Matplotlib`||
+||||`Statsmodels`||
+||||`Тренд и сезонность`||
+||||`OOP`||
+||||||
+|**Классификация комментариев**|`Интернет-сервисы`|`Machine Learning`|`Python`|[ссылка на проект](https://github.com/alkspshkr/repo_Data_Science/tree/master/Toxic%20Comments%20Problem%20-%20NLP)|
+||`Стартапы`|`NLP`|`Pandas`||
+||||`SKlearn`||
+||||`NLTK`||
+||||`BERT`||
+||||`TF-IDF`||
+||||`CountVec`||
+||||||
+|**Обработка фотографий**|`Бизнес`|`Machine Learning`|`Python`|[ссылка на проект](https://github.com/alkspshkr/repo_Data_Science/tree/master/Toxic%20Comments%20Problem%20-%20NLP)|
+||`Retail`|`CV`|`Pandas`||
+||||`Keras`||
+||||`LeNet50`||
+||||`ResNet`||
+||||||
+|**Финальный проект**|`Бизнес`|`Machine Learning`|`Python`|[ссылка на проект](https://github.com/alkspshkr/repo_Data_Science/tree/master/Telecom%20Churn%20Problem%20-%20final%20project)|
+||`Телеком`|`Data Analyst`|`Pandas`||
+|||`Marketing Analyst`|`SKlearn`||
+||||`NumPy`||
+||||`SciPy`||
+||||`Data Preprocessing`||
+||||`EDA`||
+||||`SDA`||
+||||`Feature Engineering`||
+||||`Machine Learning`||
+||||`OOP`||
