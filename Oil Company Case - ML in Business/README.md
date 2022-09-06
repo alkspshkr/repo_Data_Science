@@ -12,4 +12,4 @@
 
 `Pandas`, `Python`, `Matplotlib`, `SKlearn`
 
-## [Посмотреть тетрадку](https://github.com/alkspshkr/repo_Data_Science/tree/master/Oil%20Company%20Case%20-%20ML%20in%20Business)
+## [Посмотреть тетрадку](https://github.com/alkspshkr/repo_Data_Science/blob/master/Oil%20Company%20Case%20-%20ML%20in%20Business/Oil%20Company%20Case.ipynb)
